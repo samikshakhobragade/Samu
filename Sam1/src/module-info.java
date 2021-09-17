@@ -1,0 +1,2 @@
+module Sam1 {
+}
